@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 99e7c45a81a5d804880cc8544dd23adb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - particulas: {instanceID: 0}
+  - textoContador: {instanceID: 0}
+  - textoGanador: {instanceID: 0}
+  - CuboMovible: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
